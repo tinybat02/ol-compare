@@ -1,0 +1,21 @@
+{
+  "type": "panel",
+  "name": "ES compare",
+  "id": "id-es-compare",
+  "dataFormats": ["table"],
+  "info": {
+    "description": "ES compare trajectory",
+    "author": {
+      "name": "Nam Le"
+    },
+    "keywords": [],
+    "screenshots": [],
+    "version": "%VERSION%",
+    "updated": "%TODAY%"
+  },
+
+  "dependencies": {
+    "grafanaVersion": "6.3.x",
+    "plugins": []
+  }
+}
