@@ -1,7 +1,7 @@
 {
   "type": "panel",
   "name": "ES compare",
-  "id": "id-es-compare",
+  "id": "id-es-compare-trajectory",
   "dataFormats": ["table"],
   "info": {
     "description": "ES compare trajectory",
